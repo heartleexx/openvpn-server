@@ -22,7 +22,7 @@ sudo bash ./openvpn-install.sh
 ```
 vim /etc/openvpn/server/server.conf
 ```
-and then restart openvpn serverK
+and then restart openvpn server
 ```
 sudo systemctl restart openvpn-server@server.service
 ```
